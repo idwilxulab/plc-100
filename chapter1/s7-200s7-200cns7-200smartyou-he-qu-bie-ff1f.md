@@ -16,3 +16,11 @@ S7-200是国外生产，S7-200CN是国内生产，仅可以国内使用，不能
 
 
 
+附：
+
+[S7-200 SMART 产品页面](http://www.industry.siemens.com.cn/automation/cn/zh/automation-systems/industrial-automation/simatic-controller/simatic-s7-controller/smart200/pages/default.aspx)
+
+[S7-200 SMART 系统手册](https://support.industry.siemens.com/cs/document/109745610/s7-200-smart-%E7%B3%BB%E7%BB%9F%E6%89%8B%E5%86%8C-?dti=0&pnid=21148&lc=zh-CN) 
+
+[S7-200 SMART 可编程控制器 样本](http://www.ad.siemens.com.cn/download/docMessage.aspx?Id=6726)
+
