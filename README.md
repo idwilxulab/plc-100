@@ -1,3 +1,4 @@
-# My Awesome Book
+# 西门子S7系列PLC使用技巧
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+配合《现代电气与PLC》课程，介绍一些常见的S7-200/300/400PLC使用问题。
+
