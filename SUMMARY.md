@@ -38,4 +38,5 @@
   * [在设备正常的情况下，发生Micro/Win不能与CPU通讯的原因主要有哪些？](chapter1/zai-she-bei-zheng-chang-de-qing-kuang-xia-ff0c-fa-sheng-micro-win-bu-neng-yu-cpu-tong-xun-de-yuan-yin-zhu-yao-you-na-xie-ff1f.md)
   * [在“Set PG/PC”通讯属性时，COM口的符号前为什么会有一个星号“\*”？](chapter1/zai-201c-set-pg-pc-201d-tong-xun-shu-xing-shi-ff0c-com-kou-de-fu-hao-qian-wei-shi-yao-hui-you-yi-ge-xing-hao-201c-201d-ff1f.md)
   * [S7-200 支持的通讯协议哪些是公开的，哪些是不公开的？](chapter1/s7-200-zhi-chi-de-tong-xun-xie-yi-na-xie-shi-gong-kai-de-ff0c-na-xie-shi-bu-gong-kai-de-ff1f.md)
+  * [CPU 224 XP 本体和扩展的模拟量输入、输出满量程范围各是多少？](chapter1/cpu-224-xp-ben-ti-he-kuo-zhan-de-mo-ni-liang-shu-ru-3001-shu-chu-man-liang-cheng-fan-wei-ge-shi-duo-shao-ff1f.md)
 
