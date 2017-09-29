@@ -36,4 +36,5 @@
   * [什么条件下 PPI、MPI 和 PROFIBUS 可以同时在一个网络上运行？](chapter1/shi-yao-tiao-jian-xia-ppi-mpi-he-profibus-ke-yi-tong-shi-zai-yi-ge-wang-luo-shang-yun-xing-ff1f.md)
   * [在 Micro/WIN 的系统块中为何不能将通讯口设置为 187.5K 波特率？](chapter1/zai-micro-win-de-xi-tong-kuai-zhong-wei-he-bu-neng-jiang-tong-xun-kou-she-zhi-wei-187-5k-bo-te-lv-ff1f.md)
   * [在设备正常的情况下，发生Micro/Win不能与CPU通讯的原因主要有哪些？](chapter1/zai-she-bei-zheng-chang-de-qing-kuang-xia-ff0c-fa-sheng-micro-win-bu-neng-yu-cpu-tong-xun-de-yuan-yin-zhu-yao-you-na-xie-ff1f.md)
+  * [在“Set PG/PC”通讯属性时，COM口的符号前为什么会有一个星号“\*”？](chapter1/zai-201c-set-pg-pc-201d-tong-xun-shu-xing-shi-ff0c-com-kou-de-fu-hao-qian-wei-shi-yao-hui-you-yi-ge-xing-hao-201c-201d-ff1f.md)
 
