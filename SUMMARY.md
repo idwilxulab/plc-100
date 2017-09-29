@@ -33,4 +33,5 @@
   * [当周期小于 50μs 时为何不能获得满意的波形输出？](chapter1/dang-zhou-qi-xiao-yu-50-s-shi-wei-he-bu-neng-huo-de-man-yi-de-bo-xing-shu-chu-ff1f.md)
   * [S7-200 控制变频器，在变频器也有 PID 控制功能时，应当使用谁的 PID 功能？](chapter1/s7-200-kong-zhi-bian-pin-qi-ff0c-zai-bian-pin-qi-ye-you-pid-kong-zhi-gong-neng-shi-ff0c-ying-dang-shi-yong-shui-de-pid-gong-neng-ff1f.md)
   * [CPU的SF\(系统故障\) 灯亮是什么原因? ](chapter1/cpude-sf-xi-tong-gu-969c29-deng-liang-shi-shi-yao-yuan-56e03f.md)
+  * [什么条件下 PPI、MPI 和 PROFIBUS 可以同时在一个网络上运行？](chapter1/shi-yao-tiao-jian-xia-ppi-mpi-he-profibus-ke-yi-tong-shi-zai-yi-ge-wang-luo-shang-yun-xing-ff1f.md)
 
