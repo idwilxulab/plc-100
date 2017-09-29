@@ -22,4 +22,5 @@
   * [什么是单极性、双极性？ ](chapter1/shi-yao-shi-dan-ji-xing-3001-shuang-ji-xing-ff1f.md)
   * [电压型模拟量与电流型模拟量的应用场合相同吗？](chapter1/dian-ya-xing-mo-ni-liang-shu-chu-yu-dian-liu-xing-mo-ni-liang-shu-chu-ge-shi-chang-he-xiang-tong-ma-ff1f.md)
   * [S7-200 模拟量模块的输入/输出阻抗指标是多少？ ](chapter1/s7-200-mo-ni-liang-mo-kuai-de-shu-5165-shu-chu-zu-kang-zhi-biao-shi-duo-shao-ff1f.md)
+  * [模拟量模块的电源指示灯正常，为何信号输入灯不亮？](chapter1/mo-ni-liang-mo-kuai-de-dian-yuan-zhi-shi-deng-zheng-chang-ff0c-wei-he-xin-hao-shu-ru-deng-bu-liang-ff1f.md)
 
