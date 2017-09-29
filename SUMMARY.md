@@ -7,4 +7,5 @@
   * [STEP 7 Micro-Win 与 STEP 7 一样吗？](chapter1/step-7-micro-win-yu-step-7-yi-yang-ma-ff1f.md)
   * [如何将程序复位？](chapter1/ru-he-jiang-cheng-xu-fu-wei-ff1f.md)
   * [怎样Micro/Win工作环境设置为中文状态"？](chapter1/zen-yang-micro-win-gong-zuo-huan-jing-she-zhi-wei-zhong-wen-zhuang-600122-ff1f.md)
+  * [S7-200 CN CPU的存储卡兼容性问题](chapter1/s7-200-cn-cpude-cun-chu-qia-jian-rong-xing-wen-ti.md)
 
