@@ -26,4 +26,5 @@
   * [编了一个利用定时器的程序，在编译时已经通过，为何下载到 CPU 中时提示出错？ ](chapter1/bian-le-yi-ge-li-yong-ding-shi-qi-de-cheng-xu-ff0c-zai-bian-yi-shi-yi-jing-tong-guo-ff0c-wei-he-xia-zai-dao-cpu-zhong-shi-ti-shi-chu-cuo-ff1f.md)
   * [中断服务程序看起来没有执行？](chapter1/zhong-duan-fu-wu-cheng-xu-kan-qi-lai-mei-you-zhi-xing-ff1f.md)
   * [为什么高速计数器不能正常工作?](chapter1/wei-shi-yao-gao-su-ji-shu-qi-bu-neng-zheng-chang-gong-4f5c3f.md)
+  * [为何给高速计数器赋初始值和预置值时后不起作用，或效果出乎意料? ](chapter1/wei-he-gei-gao-su-ji-shu-qi-fu-chu-shi-zhi-he-yu-zhi-zhi-shi-hou-bu-qi-zuo-yong-ff0c-huo-xiao-guo-chu-hu-yi-65993f.md)
 
