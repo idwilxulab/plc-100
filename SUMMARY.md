@@ -25,4 +25,5 @@
   * [模拟量模块的电源指示灯正常，为何信号输入灯不亮？](chapter1/mo-ni-liang-mo-kuai-de-dian-yuan-zhi-shi-deng-zheng-chang-ff0c-wei-he-xin-hao-shu-ru-deng-bu-liang-ff1f.md)
   * [编了一个利用定时器的程序，在编译时已经通过，为何下载到 CPU 中时提示出错？ ](chapter1/bian-le-yi-ge-li-yong-ding-shi-qi-de-cheng-xu-ff0c-zai-bian-yi-shi-yi-jing-tong-guo-ff0c-wei-he-xia-zai-dao-cpu-zhong-shi-ti-shi-chu-cuo-ff1f.md)
   * [中断服务程序看起来没有执行？](chapter1/zhong-duan-fu-wu-cheng-xu-kan-qi-lai-mei-you-zhi-xing-ff1f.md)
+  * [为什么高速计数器不能正常工作?](chapter1/wei-shi-yao-gao-su-ji-shu-qi-bu-neng-zheng-chang-gong-4f5c3f.md)
 
