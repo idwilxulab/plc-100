@@ -17,4 +17,5 @@
   * [如何知道自己所编程序的扫描时间? ](chapter1/ru-he-zhi-dao-zi-ji-suo-bian-cheng-xu-de-sao-miao-shi-95f43f.md)
   * [如何查找所使用的程序地址空间是否重复使用？ ](chapter1/ru-he-cha-zhao-suo-shi-yong-de-cheng-xu-di-zhi-kong-jian-shi-fou-zhong-fu-shi-yong-ff1f.md)
   * [CPU224 XP 的高速输入输出到底能达到 100K 还是 200K？ ](chapter1/cpu224-xp-de-gao-su-shu-ru-shu-chu-dao-di-neng-da-dao-100k-huan-shi-200k.md)
+  * [CPU224 XP 的高速输入（I0.3/4/5）是 5VDC 信号，其他输入点是否可以接 24VDC 信号？](chapter1/cpu224-xp-de-gao-su-shu-ru-ff08-i0-3-4-5-ff09-shi-5vdc-xin-hao-ff0c-qi-ta-shu-ru-dian-shi-fou-ke-yi-jie-24vdc-xin-hao-ff1f.md)
 
