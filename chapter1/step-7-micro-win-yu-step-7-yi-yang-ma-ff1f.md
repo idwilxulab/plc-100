@@ -1,0 +1,2 @@
+[Step 7 Micro/Win](http://www.industry.siemens.com.cn/automation/cn/zh/automation-systems/industrial-automation/software-for-simatic-controllers/step7/step7-micro-win/pages/default.aspx)是S7-200以及S7-200 CN PLC的软件开发环境。而STEP 7是S7-300、S7-400的开发软件。除这两个软件之外，还有STEP 7 Micro/Win Smart、以及TIA软件都可用于S7系列PLC的开发，其中STEP 7 Micro/Win Smart 是S7-200 Smart PLC的开发软件，TIA是西门子的全集成自动化（Totally Integrated Automation，[官网介绍](https://www.industry.siemens.com.cn/topics/cn/zh/tia/Pages/Default.aspx)）开发平台，包含新版的WinCC及Step 7 \(V10及以上\)除了可对S7-300、400、1200、1500PLC开发之外，还可用于HMI触摸屏及计算机人接交互界面的组态开发。
+
