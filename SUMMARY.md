@@ -31,4 +31,5 @@
   * [如何强制停止 PTO 或 PWM 输出？](chapter1/ru-he-qiang-zhi-ting-zhi-pto-huo-pwm-shu-chu-ff1f.md)
   * [为何输出信号的指示灯已亮，却没有良好的电压波形输出，或者有时丢脉冲？](chapter1/wei-he-shu-chu-xin-hao-de-zhi-shi-deng-yi-liang-ff0c-que-mei-you-liang-hao-de-dian-ya-bo-xing-shu-chu-ff0c-huo-zhe-you-shi-diu-mai-chong-ff1f.md)
   * [当周期小于 50μs 时为何不能获得满意的波形输出？](chapter1/dang-zhou-qi-xiao-yu-50-s-shi-wei-he-bu-neng-huo-de-man-yi-de-bo-xing-shu-chu-ff1f.md)
+  * [S7-200 控制变频器，在变频器也有 PID 控制功能时，应当使用谁的 PID 功能？](chapter1/s7-200-kong-zhi-bian-pin-qi-ff0c-zai-bian-pin-qi-ye-you-pid-kong-zhi-gong-neng-shi-ff0c-ying-dang-shi-yong-shui-de-pid-gong-neng-ff1f.md)
 
