@@ -11,4 +11,5 @@
   * [怎样Micro/Win工作环境设置为中文状态"？](chapter1/zen-yang-micro-win-gong-zuo-huan-jing-she-zhi-wei-zhong-wen-zhuang-600122-ff1f.md)
   * [S7-200 CN CPU的存储卡兼容性问题](chapter1/s7-200-cn-cpude-cun-chu-qia-jian-rong-xing-wen-ti.md)
   * [S7-200 PLC的CPU处理器是多少位的？](chapter1/s7-200-plcde-cpu-chu-li-qi-shi-duo-shao-wei-de-ff1f.md)
+  * [S7-200 CPU 上的通讯口支持哪些讯协议？](chapter1/s7-200-cpu-shang-de-tong-xun-kou-zhi-chi-na-xie-xun-xie-yi-ff1f.md)
 
