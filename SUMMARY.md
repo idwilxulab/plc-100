@@ -29,4 +29,5 @@
   * [为何给高速计数器赋初始值和预置值时后不起作用，或效果出乎意料? ](chapter1/wei-he-gei-gao-su-ji-shu-qi-fu-chu-shi-zhi-he-yu-zhi-zhi-shi-hou-bu-qi-zuo-yong-ff0c-huo-xiao-guo-chu-hu-yi-65993f.md)
   * [PTO与PWM 输出的电压幅值是多少？ ](chapter1/ptoyu-pwm-shu-chu-de-dian-ya-fu-zhi-shi-duo-shao-ff1f.md)
   * [如何强制停止 PTO 或 PWM 输出？](chapter1/ru-he-qiang-zhi-ting-zhi-pto-huo-pwm-shu-chu-ff1f.md)
+  * [为何输出信号的指示灯已亮，却没有良好的电压波形输出，或者有时丢脉冲？](chapter1/wei-he-shu-chu-xin-hao-de-zhi-shi-deng-yi-liang-ff0c-que-mei-you-liang-hao-de-dian-ya-bo-xing-shu-chu-ff0c-huo-zhe-you-shi-diu-mai-chong-ff1f.md)
 
