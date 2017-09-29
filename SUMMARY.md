@@ -19,4 +19,6 @@
   * [CPU224 XP 的高速输入输出到底能达到 100K 还是 200K？ ](chapter1/cpu224-xp-de-gao-su-shu-ru-shu-chu-dao-di-neng-da-dao-100k-huan-shi-200k.md)
   * [CPU224 XP 的高速输入（I0.3/4/5）是 5VDC 信号，其他输入点是否可以接 24VDC 信号？](chapter1/cpu224-xp-de-gao-su-shu-ru-ff08-i0-3-4-5-ff09-shi-5vdc-xin-hao-ff0c-qi-ta-shu-ru-dian-shi-fou-ke-yi-jie-24vdc-xin-hao-ff1f.md)
   * [CPU224 XP 的高速输出点 Q0.0 和 Q0.1 接 5V 电源，其他点如 Q0.2/3/4 是否可以 接 24V 电压？](chapter1/cpu224-xp-de-gao-su-shu-chu-dian-q0-0-he-q0-1-jie-5v-dian-yuan-ff0c-qi-ta-dian-ru-q0-2-3-4-shi-fou-ke-yi-jie-24v-dian-ya-ff1f.md)
+  * [什么是单极性、双极性？ ](chapter1/shi-yao-shi-dan-ji-xing-3001-shuang-ji-xing-ff1f.md)
+  * [电压型模拟量与电流型模拟量的应用场合相同吗？](chapter1/dian-ya-xing-mo-ni-liang-shu-chu-yu-dian-liu-xing-mo-ni-liang-shu-chu-ge-shi-chang-he-xiang-tong-ma-ff1f.md)
 
