@@ -13,4 +13,5 @@
   * [S7-200 PLC的CPU处理器是多少位的？](chapter1/s7-200-plcde-cpu-chu-li-qi-shi-duo-shao-wei-de-ff1f.md)
   * [S7-200 CPU 上的通讯口支持哪些讯协议？](chapter1/s7-200-cpu-shang-de-tong-xun-kou-zhi-chi-na-xie-xun-xie-yi-ff1f.md)
   * [S7-200 CPU 上的通讯口的通讯距离究竟有多远？](chapter1/s7-200-cpu-shang-de-tong-xun-kou-de-tong-xun-ju-li-jiu-jing-you-duo-yuan-ff1f.md)
+  * [如何知道自己所编程序大小？ ](chapter1/ru-he-zhi-dao-zi-ji-suo-bian-cheng-xu-da-xiao-ff1f.md)
 
