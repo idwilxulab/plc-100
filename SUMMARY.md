@@ -21,4 +21,5 @@
   * [CPU224 XP 的高速输出点 Q0.0 和 Q0.1 接 5V 电源，其他点如 Q0.2/3/4 是否可以 接 24V 电压？](chapter1/cpu224-xp-de-gao-su-shu-chu-dian-q0-0-he-q0-1-jie-5v-dian-yuan-ff0c-qi-ta-dian-ru-q0-2-3-4-shi-fou-ke-yi-jie-24v-dian-ya-ff1f.md)
   * [什么是单极性、双极性？ ](chapter1/shi-yao-shi-dan-ji-xing-3001-shuang-ji-xing-ff1f.md)
   * [电压型模拟量与电流型模拟量的应用场合相同吗？](chapter1/dian-ya-xing-mo-ni-liang-shu-chu-yu-dian-liu-xing-mo-ni-liang-shu-chu-ge-shi-chang-he-xiang-tong-ma-ff1f.md)
+  * [S7-200 模拟量模块的输入/输出阻抗指标是多少？ ](chapter1/s7-200-mo-ni-liang-mo-kuai-de-shu-5165-shu-chu-zu-kang-zhi-biao-shi-duo-shao-ff1f.md)
 
