@@ -16,4 +16,5 @@
   * [如何知道自己所编程序大小？ ](chapter1/ru-he-zhi-dao-zi-ji-suo-bian-cheng-xu-da-xiao-ff1f.md)
   * [如何知道自己所编程序的扫描时间? ](chapter1/ru-he-zhi-dao-zi-ji-suo-bian-cheng-xu-de-sao-miao-shi-95f43f.md)
   * [如何查找所使用的程序地址空间是否重复使用？ ](chapter1/ru-he-cha-zhao-suo-shi-yong-de-cheng-xu-di-zhi-kong-jian-shi-fou-zhong-fu-shi-yong-ff1f.md)
+  * [CPU224 XP 的高速输入输出到底能达到 100K 还是 200K？ ](chapter1/cpu224-xp-de-gao-su-shu-ru-shu-chu-dao-di-neng-da-dao-100k-huan-shi-200k.md)
 
