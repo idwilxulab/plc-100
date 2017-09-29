@@ -1,4 +1,4 @@
-S7-200是国外生产，S7-200CN是国内生产，仅可以国内使用，不能出口，两者仅产地不同，功能一致。但S7-200已经停产，S7-200CN在2017年10月1日进入退市阶段，但退市不是停产，之后仍然可以买到，但供货周期将越来越长，价格将更贵。可使用S7-200 Smart PLC 或S7-1200 PLC替代。S7-200 Smart 是S7-200（CN）的升级产品，功能相近，但有区别。见下表：
+S7-200与S7-200 CN PLC完全兼容，只是产地不同，S7-200是国外生产，S7-200CN是国内生产，仅可以国内使用，不能出口。但S7-200已经停产，S7-200CN在2017年10月1日进入退市阶段，但退市不是停产，之后仍然可以买到，但供货周期将越来越长，价格将更贵。可使用S7-200 Smart PLC 或S7-1200 PLC替代。S7-200 Smart 是S7-200（CN）的升级产品，功能相近，但有区别。异同见下表：
 
 |  | S7-200 \(CN\) | S7-200 Smart |
 | :--- | :--- | :--- |
@@ -14,13 +14,11 @@ S7-200是国外生产，S7-200CN是国内生产，仅可以国内使用，不能
 | 计数器 | 256个 | 256个 |
 | CPU集成以太网口 | 否 | 是 |
 
-
-
 附：
 
 [S7-200 SMART 产品页面](http://www.industry.siemens.com.cn/automation/cn/zh/automation-systems/industrial-automation/simatic-controller/simatic-s7-controller/smart200/pages/default.aspx)
 
-[S7-200 SMART 系统手册](https://support.industry.siemens.com/cs/document/109745610/s7-200-smart-%E7%B3%BB%E7%BB%9F%E6%89%8B%E5%86%8C-?dti=0&pnid=21148&lc=zh-CN) 
+[S7-200 SMART 系统手册](https://support.industry.siemens.com/cs/document/109745610/s7-200-smart-系统手册-?dti=0&pnid=21148&lc=zh-CN)
 
 [S7-200 SMART 可编程控制器 样本](http://www.ad.siemens.com.cn/download/docMessage.aspx?Id=6726)
 
