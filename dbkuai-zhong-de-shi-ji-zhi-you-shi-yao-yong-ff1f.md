@@ -19,7 +19,9 @@ You can save actual values of data blocks by copying the online blocks to your o
 
 ![](/assets/屏幕快照 2017-09-30 上午11.05.02.png)
 
-                      图2 备份在线DB块
+```
+                          图2 备份在线DB块
+```
 
 
 
