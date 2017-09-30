@@ -42,4 +42,5 @@
   * [如何执行有限次数的扫描？](chapter1/ru-he-zhi-xing-you-xian-ci-shu-de-sao-miao-ff1f.md)
 * [S7-300](s7-300.md)
   * [模拟量输入信号如何接线？](mo-ni-liang-shu-ru-xin-hao-ru-he-jie-xian-ff1f.md)
+  * [有哪些参考资料？](you-na-xie-can-kao-zi-liao-ff1f.md)
 
