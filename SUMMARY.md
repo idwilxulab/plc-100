@@ -4,6 +4,7 @@
 * [电器基础](dian-qi-ji-chu.md)
   * [什么是接地？](dian-qi-ji-chu/shi-yao-shi-jie-di-ff1f.md)
   * [自动化技术类电器设备的防护等级是什么？](dian-qi-ji-chu/zi-dong-hua-ji-zhu-lei-dian-qi-she-bei-de-fang-hu-deng-ji-shi-shi-yao-ff1f.md)
+  * [什么是热电偶的冷端补偿？](dian-qi-ji-chu/shi-yao-shi-re-dian-ou-de-leng-duan-bu-chang-ff1f.md)
 * [S7-200](chapter1.md)
   * [S7-200的输入过程映像寄存器是只读的吗？](chapter1/s7-200de-shu-ru-ying-xiang-ji-cun-qi-shi-zhi-du-de-ma-ff1f.md)
   * [S7-200、S7-200CN、S7-200Smart有何区别？](chapter1/s7-200s7-200cns7-200smartyou-he-qu-bie-ff1f.md)
