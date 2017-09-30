@@ -51,4 +51,5 @@
   * [S7-300有哪些存储器？](s7-300you-na-xie-cun-chu-qi-ff1f.md)
   * [数据块的初始值有什么作用？](shu-ju-kuai-de-chu-shi-zhi-you-shi-yao-zuo-yong-ff1f.md)
   * 具备断电保持特性的数据块何时会丢失当前值？
+  * [下载数据块时，其过程是什么样的？](xia-zai-shu-ju-kuai-shi-ff0c-qi-guo-cheng-shi-shi-yao-yang-de-ff1f.md)
 
