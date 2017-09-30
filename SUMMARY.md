@@ -40,7 +40,7 @@
   * [S7-200 支持的通讯协议哪些是公开的，哪些是不公开的？](chapter1/s7-200-zhi-chi-de-tong-xun-xie-yi-na-xie-shi-gong-kai-de-ff0c-na-xie-shi-bu-gong-kai-de-ff1f.md)
   * [CPU 224 XP 本体和扩展的模拟量输入、输出满量程范围各是多少？](chapter1/cpu-224-xp-ben-ti-he-kuo-zhan-de-mo-ni-liang-shu-ru-3001-shu-chu-man-liang-cheng-fan-wei-ge-shi-duo-shao-ff1f.md)
   * [如何执行有限次数的扫描？](chapter1/ru-he-zhi-xing-you-xian-ci-shu-de-sao-miao-ff1f.md)
-* [S7-300](s7-300.md)
+* [S7-300/400](s7-300.md)
   * [模拟量输入信号如何接线？](mo-ni-liang-shu-ru-xin-hao-ru-he-jie-xian-ff1f.md)
   * [有哪些参考资料？](you-na-xie-can-kao-zi-liao-ff1f.md)
   * [STEP 7功能“Copy RAM to ROM”有何作用？](step-7gong-neng-201c-copy-ram-to-rom-201d-you-he-zuo-yong-ff1f.md)
@@ -63,4 +63,5 @@
   * [没有特殊功能存储器，如何实现常1、常0?](mei-you-te-shu-gong-neng-cun-chu-qi-ff0c-ru-he-shi-xian-chang-1-3001-chang-0.md)
   * [S7-300/S7-400 CPU 模块使用的存储卡写入次数的保证值是多少?](s7-300s7-400-cpu-mo-kuai-shi-yong-de-cun-chu-qia-xie-ru-ci-shu-de-bao-zheng-zhi-shi-duo-5c113f.md)
   * [为什么DI模块的输入指示灯已经亮起，但却没有输入信号？](wei-shi-yao-di-mo-kuai-de-shu-ru-zhi-shi-deng-yi-jing-liang-qi-ff0c-dan-que-mei-you-shu-ru-xin-hao-ff1f.md)
+  * [S7-300 的安装导轨上可以安装多少个模块？](s7-300-de-an-zhuang-dao-gui-shang-ke-yi-an-zhuang-duo-shao-ge-mo-kuai-ff1f.md)
 
