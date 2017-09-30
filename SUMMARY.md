@@ -48,4 +48,5 @@
   * [如何保存DB块中的实际值？](dbkuai-zhong-de-shi-ji-zhi-you-shi-yao-yong-ff1f.md)
   * [如何在程序中读取并保存"实际值"?](ru-he-zai-cheng-xu-zhong-du-qu-bing-bao-5b5822-shi-ji-503c223f.md)
   * [如何将DB块中的数据设置为“保持”型数据？](ru-he-jiang-db-kuai-zhong-de-shu-ju-she-zhi-wei-201c-bao-chi-201d-xing-shu-ju-ff1f.md)
+  * [S7-300有哪些存储器？](s7-300you-na-xie-cun-chu-qi-ff1f.md)
 
