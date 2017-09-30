@@ -52,4 +52,5 @@
   * [数据块的初始值有什么作用？](shu-ju-kuai-de-chu-shi-zhi-you-shi-yao-zuo-yong-ff1f.md)
   * 具备断电保持特性的数据块何时会丢失当前值？
   * [下载数据块时，其过程是什么样的？](xia-zai-shu-ju-kuai-shi-ff0c-qi-guo-cheng-shi-shi-yao-yang-de-ff1f.md)
+  * [使用STEP7监视/修改（monitor/modify）的数据块中的数值，位于什么存储区？](shi-yong-step7-jian-89c6-xiu-gai-ff08-monitor-modify-ff09-de-shu-ju-kuai-zhong-de-shu-zhi-ff0c-wei-yu-shi-yao-cun-chu-qu-ff1f.md)
 
