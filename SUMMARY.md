@@ -62,4 +62,5 @@
   * [S7-300与S7-200有哪些主要的差别？](s7-300yu-s7-200-you-na-xie-zhu-yao-de-cha-bie-ff1f.md)
   * [没有特殊功能存储器，如何实现常1、常0?](mei-you-te-shu-gong-neng-cun-chu-qi-ff0c-ru-he-shi-xian-chang-1-3001-chang-0.md)
   * [S7-300/S7-400 CPU 模块使用的存储卡写入次数的保证值是多少?](s7-300s7-400-cpu-mo-kuai-shi-yong-de-cun-chu-qia-xie-ru-ci-shu-de-bao-zheng-zhi-shi-duo-5c113f.md)
+  * [为什么DI模块的输入指示灯已经亮起，但却没有输入信号？](wei-shi-yao-di-mo-kuai-de-shu-ru-zhi-shi-deng-yi-jing-liang-qi-ff0c-dan-que-mei-you-shu-ru-xin-hao-ff1f.md)
 
