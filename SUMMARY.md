@@ -44,4 +44,5 @@
   * [模拟量输入信号如何接线？](mo-ni-liang-shu-ru-xin-hao-ru-he-jie-xian-ff1f.md)
   * [有哪些参考资料？](you-na-xie-can-kao-zi-liao-ff1f.md)
   * [STEP 7功能“Copy RAM to ROM”有何作用？](step-7gong-neng-201c-copy-ram-to-rom-201d-you-he-zuo-yong-ff1f.md)
+  * [数据块中的实际值有什么用？](ru-he-bao-cun-db-kuai-zhong-de-shi-ji-zhi-ff1f.md)
 
