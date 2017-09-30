@@ -1,6 +1,4 @@
-You can save actual values of data blocks by copying the online blocks to your offline project and loading the blocks once again into the SIMATIC S7-300. This reloading means that this data is once again available in the load memory and thus also after an overall reset.
-
-在将修改后的PLC程序下载到CPU之前，需要考虑这样一个问题：**是否要保持当前PLC中DB块的实际值不变？**这些实际值包含一些工艺参数，控制设定值、设备运行状态等重要信息。若直接下载程序而不做保护措施，PLC中的实际值会被下载的DB块中设定的“实际值”覆盖，一些重要的运行参数可能因些而丢失。
+在将修改后的PLC程序下载到CPU之前，需要考虑这样一个问题：**是否要保持当前PLC中DB块的实际值不变？**这些实际值包含一些工艺参数，控制设定值、设备运行状态等重要信息。若直接下载程序而不做保护措施，PLC中的实际值会被下载的DB块中设定的“实际值”覆盖，一些重要的运行参数可能因此丢失。
 
 要保护当前的实际值不被覆盖，需要先进行备份，然后再将离线项目下载到CPU。流程如图1所示。
 
@@ -23,5 +21,7 @@ You can save actual values of data blocks by copying the online blocks to your o
                           图2 备份在线DB块
 ```
 
+---
 
+内容参考自《》
 
