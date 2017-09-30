@@ -60,4 +60,5 @@
   * [常用的OB块有哪些？](chang-yong-de-ob-kuai-you-na-xie-ff1f.md)
   * [S7-300 模块的DI/DO地址一定是从0.0开始的吗？](s7-300-mo-kuai-de-di-do-di-zhi-yi-ding-shi-cong-0-0-kai-shi-de-ma-ff1f.md)
   * [S7-300与S7-200有哪些主要的差别？](s7-300yu-s7-200-you-na-xie-zhu-yao-de-cha-bie-ff1f.md)
+  * [没有特殊功能存储器，如何实现常1、常0?](mei-you-te-shu-gong-neng-cun-chu-qi-ff0c-ru-he-shi-xian-chang-1-3001-chang-0.md)
 
