@@ -50,4 +50,5 @@
   * [如何将DB块中的数据设置为“保持”型数据？](ru-he-jiang-db-kuai-zhong-de-shu-ju-she-zhi-wei-201c-bao-chi-201d-xing-shu-ju-ff1f.md)
   * [S7-300有哪些存储器？](s7-300you-na-xie-cun-chu-qi-ff1f.md)
   * [数据块的初始值有什么作用？](shu-ju-kuai-de-chu-shi-zhi-you-shi-yao-zuo-yong-ff1f.md)
+  * 具备断电保持特性的数据块何时会丢失当前值？
 
