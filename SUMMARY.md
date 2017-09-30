@@ -65,4 +65,5 @@
   * [为什么DI模块的输入指示灯已经亮起，但却没有输入信号？](wei-shi-yao-di-mo-kuai-de-shu-ru-zhi-shi-deng-yi-jing-liang-qi-ff0c-dan-que-mei-you-shu-ru-xin-hao-ff1f.md)
   * [S7-300 的安装导轨上可以安装多少个模块？](s7-300-de-an-zhuang-dao-gui-shang-ke-yi-an-zhuang-duo-shao-ge-mo-kuai-ff1f.md)
   * [S7-300 CPU 可以使用哪些存储卡?](s7-300-cpu-ke-yi-shi-yong-na-xie-cun-chu-53613f.md)
+  * [当电流小于 4 mA 时，S7-300 用于电流测量 \(4-20 mA\) 的模拟输入如何响应？](dang-dian-liu-xiao-yu-4-ma-shi-ff0c-s7-300-yong-yu-dian-liu-ce-liang-4-20-ma-de-mo-ni-shu-ru-ru-he-xiang-ying-ff1f.md)
 
