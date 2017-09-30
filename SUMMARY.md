@@ -68,4 +68,5 @@
   * [当电流小于 4 mA 时，S7-300 用于电流测量 \(4-20 mA\) 的模拟输入如何响应？](dang-dian-liu-xiao-yu-4-ma-shi-ff0c-s7-300-yong-yu-dian-liu-ce-liang-4-20-ma-de-mo-ni-shu-ru-ru-he-xiang-ying-ff1f.md)
   * [S7-300只能暖启动吗？](s7-300zhi-neng-nuan-qi-dong-ma-ff1f.md)
   * [如何查看CPU存储器的用量？](ru-he-cha-kan-cheng-xu-de-da-xiao-ff1f.md)
+  * [如何查看所编写的程序项目的大小？](ru-he-cha-kan-suo-bian-xie-de-cheng-xu-xiang-mu-de-da-xiao-ff1f.md)
 
