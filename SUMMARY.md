@@ -59,4 +59,5 @@
   * [OB块是什么？S7-300有哪些OB块？](obkuai-shi-shi-yao-ff1f-s7-300-you-na-xie-ob-kuai-ff1f.md)
   * [常用的OB块有哪些？](chang-yong-de-ob-kuai-you-na-xie-ff1f.md)
   * [S7-300 模块的DI/DO地址一定是从0.0开始的吗？](s7-300-mo-kuai-de-di-do-di-zhi-yi-ding-shi-cong-0-0-kai-shi-de-ma-ff1f.md)
+  * [S7-300与S7-200有哪些主要的差别？](s7-300yu-s7-200-you-na-xie-zhu-yao-de-cha-bie-ff1f.md)
 
