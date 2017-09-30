@@ -4,15 +4,11 @@ You can save actual values of data blocks by copying the online blocks to your o
 
 要保护当前的实际值不被覆盖，需要先进行备份，然后再将离线项目下载到CPU。流程如图1所示。
 
-  
-
-
 ![](blob:https://www.gitbook.com/70fb72b6-25d4-43e0-a801-45fa06699c78)
 
-                                         图1 在更新程序时备份在线DB数据
-
-  
-
+```
+                                     图1 在更新程序时备份在线DB数据
+```
 
 操作流程如下：
 
@@ -20,6 +16,10 @@ You can save actual values of data blocks by copying the online blocks to your o
 2. “View” &gt; "Online" 打开在线视图，复制要备份的数据块，即包含了要保存的实际值的DB块文件。
 3. 在离线中视图，粘贴并覆盖相应DB块，就样就完成了DB块的备份。
 4. 执行“下载”操作，将修改的程序下载到PLC。
+
+![](/assets/屏幕快照 2017-09-30 上午11.05.02.png)
+
+                      图2 备份在线DB块
 
 
 
