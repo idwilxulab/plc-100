@@ -46,4 +46,5 @@
   * [STEP 7功能“Copy RAM to ROM”有何作用？](step-7gong-neng-201c-copy-ram-to-rom-201d-you-he-zuo-yong-ff1f.md)
   * [数据块中的实际值有什么用？](ru-he-bao-cun-db-kuai-zhong-de-shi-ji-zhi-ff1f.md)
   * [如何保存DB块中的实际值？](dbkuai-zhong-de-shi-ji-zhi-you-shi-yao-yong-ff1f.md)
+  * [如何在程序中读取并保存"实际值"?](ru-he-zai-cheng-xu-zhong-du-qu-bing-bao-5b5822-shi-ji-503c223f.md)
 
