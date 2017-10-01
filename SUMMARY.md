@@ -76,4 +76,5 @@
   * [通讯中Server和Client的区别？](tong-xun-zhong-server-he-client-de-qu-bie-ff1f.md)
   * [当使用“TC”测量范围时，为什么模拟量输入模块接线的长度会受到限制？](dang-shi-yong-201c-tc-201d-ce-liang-fan-wei-shi-ff0c-wei-shi-yao-mo-ni-liang-shu-ru-mo-kuai-jie-xian-de-chang-du-hui-shou-dao-xian-zhi-ff1f.md)
   * [为什么M0.0的线圈已经为绿色，但却没起作用？](wei-shi-yao-m0-0-de-xian-quan-yi-jing-wei-lv-se-ff0c-dan-que-mei-qi-zuo-yong-ff1f.md)
+  * [PROFINET与PROFIBUS有何区别？](profinetyu-profibus-you-he-qu-bie-ff1f.md)
 
