@@ -84,4 +84,5 @@
   * [数字量模块参数中的术语“漏型和“源型”是什么意思？](shu-zi-liang-mo-kuai-can-shu-zhong-de-zhu-yu-201c-lou-xing-he-201c-yuan-xing-201d-shi-shi-yao-yi-si-ff1f.md)
   * [在 STEP 7 的 LAD/FDB 语言编辑器中的，怎样定义一个值为 "TRUE" 的常量？](zai-step-7-de-lad-fdb-yu-yan-bian-ji-qi-zhong-de-ff0c-zen-yang-ding-yi-yi-ge-zhi-wei-true-de-chang-liang-ff1f.md)
   * [如何实现数值微分?](ru-he-shi-xian-shu-zhi-wei-52063f.md)
+  * [什么是模拟量输入和输出模块的操作限制和基本误差？](shi-yao-shi-mo-ni-liang-shu-ru-he-shu-chu-mo-kuai-de-cao-zuo-xian-zhi-he-ji-ben-wu-cha-ff1f.md)
 
