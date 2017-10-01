@@ -81,4 +81,5 @@
   * [在PLC没有通信伙伴的时候如何检查一个TCP或UPD的连接？](zai-plc-mei-you-tong-xin-huo-ban-de-shi-hou-ru-he-jian-cha-yi-ge-tcp-huo-upd-de-lian-jie-ff1f.md)
   * [西门子工业以太网线如何制作，有什么要求？](xi-men-zi-gong-ye-yi-tai-wang-xian-ru-he-zhi-zuo-ff0c-you-shi-yao-yao-qiu-ff1f.md)
   * [工业以太网通信距离有多少，如何实现远距离通信？](gong-ye-yi-tai-wang-tong-xin-ju-li-you-duo-shao-ff0c-ru-he-shi-xian-yuan-ju-li-tong-xin-ff1f.md)
+  * [数字量模块参数中的术语“漏型和“源型”是什么意思？](shu-zi-liang-mo-kuai-can-shu-zhong-de-zhu-yu-201c-lou-xing-he-201c-yuan-xing-201d-shi-shi-yao-yi-si-ff1f.md)
 
