@@ -6,5 +6,5 @@ S7-300 CPU有三个基本存储区：
 
 CPU程序所能访问的存储区为系统存储区的全部、工作存储区中的数据块DB、暂时局部数据存储区、外设I/O存储区等。
 
-
+注：详细介绍请参考 《[S7-300CPU存储器介绍及存储卡使用](https://support.industry.siemens.com/cs/document/78395672/s7-300cpu%E5%AD%98%E5%82%A8%E5%99%A8%E4%BB%8B%E7%BB%8D%E5%8F%8A%E5%AD%98%E5%82%A8%E5%8D%A1%E4%BD%BF%E7%94%A8?dti=0&lc=zh-CN)》
 
