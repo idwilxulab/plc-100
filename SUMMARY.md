@@ -85,4 +85,5 @@
   * [在 STEP 7 的 LAD/FDB 语言编辑器中的，怎样定义一个值为 "TRUE" 的常量？](zai-step-7-de-lad-fdb-yu-yan-bian-ji-qi-zhong-de-ff0c-zen-yang-ding-yi-yi-ge-zhi-wei-true-de-chang-liang-ff1f.md)
   * [如何实现数值微分?](ru-he-shi-xian-shu-zhi-wei-52063f.md)
   * [什么是模拟量输入和输出模块的操作限制和基本误差？](shi-yao-shi-mo-ni-liang-shu-ru-he-shu-chu-mo-kuai-de-cao-zuo-xian-zhi-he-ji-ben-wu-cha-ff1f.md)
+  * [S7-300/400如何与其它设备进行串行通讯？](s7-300400ru-he-yu-qi-ta-she-bei-jin-xing-chuan-xing-tong-xun-ff1f.md)
 
