@@ -79,4 +79,5 @@
   * [PROFINET与PROFIBUS有何区别？](profinetyu-profibus-you-he-qu-bie-ff1f.md)
   * [STEP7 下载时如何恢复提示“块已存在,是否覆盖”？](step7-xia-zai-shi-ru-he-hui-fu-ti-shi-201c-kuai-yi-cun-57282c-shi-fou-fu-gai-201d-ff1f.md)
   * [在PLC没有通信伙伴的时候如何检查一个TCP或UPD的连接？](zai-plc-mei-you-tong-xin-huo-ban-de-shi-hou-ru-he-jian-cha-yi-ge-tcp-huo-upd-de-lian-jie-ff1f.md)
+  * [西门子工业以太网线如何制作，有什么要求？](xi-men-zi-gong-ye-yi-tai-wang-xian-ru-he-zhi-zuo-ff0c-you-shi-yao-yao-qiu-ff1f.md)
 
