@@ -73,4 +73,5 @@
   * [如何查看所编写的程序项目的大小？](ru-he-cha-kan-suo-bian-xie-de-cheng-xu-xiang-mu-de-da-xiao-ff1f.md)
   * [热电偶连接到模拟量模块 SM 331 时怎样连接补偿盒？ ](re-dian-ou-lian-jie-dao-mo-ni-liang-mo-kuai-sm-331-shi-zen-yang-lian-jie-bu-chang-he-ff1f.md)
   * [在 STEP 7中, 如何输入、读取和编辑 CPU 模块的 date and time 变量？](zai-step-7-4e2d2c-ru-he-shu-ru-3001-du-qu-he-bian-ji-cpu-mo-kuai-de-date-and-time-bian-liang-ff1f.md)
+  * [通讯中Server和Client的区别？](tong-xun-zhong-server-he-client-de-qu-bie-ff1f.md)
 
