@@ -82,4 +82,5 @@
   * [西门子工业以太网线如何制作，有什么要求？](xi-men-zi-gong-ye-yi-tai-wang-xian-ru-he-zhi-zuo-ff0c-you-shi-yao-yao-qiu-ff1f.md)
   * [工业以太网通信距离有多少，如何实现远距离通信？](gong-ye-yi-tai-wang-tong-xin-ju-li-you-duo-shao-ff0c-ru-he-shi-xian-yuan-ju-li-tong-xin-ff1f.md)
   * [数字量模块参数中的术语“漏型和“源型”是什么意思？](shu-zi-liang-mo-kuai-can-shu-zhong-de-zhu-yu-201c-lou-xing-he-201c-yuan-xing-201d-shi-shi-yao-yi-si-ff1f.md)
+  * [在 STEP 7 的 LAD/FDB 语言编辑器中的，怎样定义一个值为 "TRUE" 的常量？](zai-step-7-de-lad-fdb-yu-yan-bian-ji-qi-zhong-de-ff0c-zen-yang-ding-yi-yi-ge-zhi-wei-true-de-chang-liang-ff1f.md)
 
