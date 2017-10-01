@@ -86,4 +86,5 @@
   * [如何实现数值微分?](ru-he-shi-xian-shu-zhi-wei-52063f.md)
   * [什么是模拟量输入和输出模块的操作限制和基本误差？](shi-yao-shi-mo-ni-liang-shu-ru-he-shu-chu-mo-kuai-de-cao-zuo-xian-zhi-he-ji-ben-wu-cha-ff1f.md)
   * [S7-300/400如何与其它设备进行串行通讯？](s7-300400ru-he-yu-qi-ta-she-bei-jin-xing-chuan-xing-tong-xun-ff1f.md)
+  * [ENO的数值取决于什么？](enode-shu-zhi-qu-jue-yu-shi-yao-ff1f.md)
 
