@@ -78,4 +78,5 @@
   * [为什么M0.0的线圈已经为绿色，但却没起作用？](wei-shi-yao-m0-0-de-xian-quan-yi-jing-wei-lv-se-ff0c-dan-que-mei-qi-zuo-yong-ff1f.md)
   * [PROFINET与PROFIBUS有何区别？](profinetyu-profibus-you-he-qu-bie-ff1f.md)
   * [STEP7 下载时如何恢复提示“块已存在,是否覆盖”？](step7-xia-zai-shi-ru-he-hui-fu-ti-shi-201c-kuai-yi-cun-57282c-shi-fou-fu-gai-201d-ff1f.md)
+  * [在PLC没有通信伙伴的时候如何检查一个TCP或UPD的连接？](zai-plc-mei-you-tong-xin-huo-ban-de-shi-hou-ru-he-jian-cha-yi-ge-tcp-huo-upd-de-lian-jie-ff1f.md)
 
